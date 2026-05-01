@@ -49,7 +49,7 @@ Designed to feel like a premium lifestyle brand — not just a juice company. Th
 
 ## 📌 Status
 
-`🚧 In Progress` — actively being developed. Deployment coming soon.
+`🚧 In Progress` — actively being developed. Deployment coming soon ;)
 
 ---
 ## 🙋‍♂️ Author
